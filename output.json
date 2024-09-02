@@ -1,0 +1,105 @@
+{
+  "type" : "stat",
+  "totalDays" : 161,
+  "customers" : [ {
+    "name" : "Иванов Антон",
+    "purchases" : [ {
+      "name" : "Колбаса",
+      "expenses" : 90.0
+    }, {
+      "name" : "Хлеб",
+      "expenses" : 80.0
+    }, {
+      "name" : "Сметана",
+      "expenses" : 60.0
+    }, {
+      "name" : "Минеральная вода",
+      "expenses" : 50.0
+    } ],
+    "totalExpenses" : 280.0
+  }, {
+    "name" : "Петров Валентин",
+    "purchases" : [ {
+      "name" : "Сыр",
+      "expenses" : 120.0
+    }, {
+      "name" : "Сметана",
+      "expenses" : 60.0
+    }, {
+      "name" : "Минеральная вода",
+      "expenses" : 50.0
+    }, {
+      "name" : "Хлеб",
+      "expenses" : 40.0
+    } ],
+    "totalExpenses" : 270.0
+  }, {
+    "name" : "Кузнецов Максим",
+    "purchases" : [ {
+      "name" : "Колбаса",
+      "expenses" : 90.0
+    }, {
+      "name" : "Сметана",
+      "expenses" : 60.0
+    }, {
+      "name" : "Минеральная вода",
+      "expenses" : 50.0
+    }, {
+      "name" : "Хлеб",
+      "expenses" : 40.0
+    } ],
+    "totalExpenses" : 240.0
+  }, {
+    "name" : "Сидоров Алексей",
+    "purchases" : [ {
+      "name" : "Колбаса",
+      "expenses" : 90.0
+    }, {
+      "name" : "Молоко",
+      "expenses" : 55.0
+    }, {
+      "name" : "Хлеб",
+      "expenses" : 40.0
+    } ],
+    "totalExpenses" : 185.0
+  }, {
+    "name" : "Иванов Николай",
+    "purchases" : [ {
+      "name" : "Колбаса",
+      "expenses" : 90.0
+    }, {
+      "name" : "Минеральная вода",
+      "expenses" : 50.0
+    }, {
+      "name" : "Хлеб",
+      "expenses" : 40.0
+    } ],
+    "totalExpenses" : 180.0
+  }, {
+    "name" : "Смирнов Дмитрий",
+    "purchases" : [ {
+      "name" : "Сыр",
+      "expenses" : 120.0
+    }, {
+      "name" : "Минеральная вода",
+      "expenses" : 50.0
+    } ],
+    "totalExpenses" : 170.0
+  }, {
+    "name" : "Егоров Виталий",
+    "purchases" : [ {
+      "name" : "Сметана",
+      "expenses" : 60.0
+    } ],
+    "totalExpenses" : 60.0
+  }, {
+    "name" : "Федоров Григорий",
+    "purchases" : [ {
+      "name" : "Молоко",
+      "expenses" : 55.0
+    } ],
+    "totalExpenses" : 55.0
+  } ],
+  "totalExpenses" : 1440.0,
+  "avgExpenses" : 180.0
+}
